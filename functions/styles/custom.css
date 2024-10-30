@@ -1,0 +1,254 @@
+/*FLIPBOX*/
+
+.divienhancer-cloned-flipbox .divienhancer_flipBoxChild.front {
+  position: absolute !important;
+}
+
+.de-flipbox-button-wrapper {
+  opacity: 0;
+}
+
+.divienhancer-flipper:hover .back .de-flipbox-button-wrapper {
+  opacity: 1;
+}
+
+.divienhancer-original-flipbox {
+  display: none;
+}
+
+/*================= Carousel ======================*/
+ul.slick-dots {
+    bottom: -50px !important;
+}
+
+.divienhancer_carouselchild {
+  margin-bottom: 0.5% !important;
+}
+
+.divienhancer-small-dots-carousel .slick-dots li button:before {
+  font-size: 8px !important;
+}
+
+.divienhancer-medium-dots-carousel .slick-dots li button:before {
+  font-size: 12px !important;
+}
+
+.divienhancer-big-dots-carousel .slick-dots li button:before {
+  font-size: 16px !important;
+}
+
+.slick-arrow:before {
+    color: rgba(0, 0, 0, 0.30196078431372547) !important;
+}
+
+span.divienhancer-carousel-prev-icon.slick-arrow {
+    top: 47% !important;
+    position: absolute;
+    left: 0;
+    cursor: pointer;
+    z-index: 9;
+}
+
+span.divienhancer-carousel-next-icon.slick-arrow {
+    top: 47% !important;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    z-index: 9;
+}
+
+/*=========== Sticky Modules ===================*/
+.divienhancer-sticky {
+  z-index: 99999 !important;
+}
+
+/*============== caption =================*/
+.divienhancer_has_caption {
+  position: relative !important;
+}
+
+.divienhancer_caption_wrapper {
+  position: absolute;
+  right: 0;
+  top: 0;
+  opacity: 0;
+  z-index: 99999;
+  display: none;
+}
+.divienhancer_caption_wrapper.de-caption-left {
+  left: 0 !important;
+  right: unser !important;
+}
+
+.divienhancer_caption_wrapper:hover {
+  opacity: 1 !important;
+  display: block;
+}
+
+.divienhancer_caption_content {
+  background-color: #444;
+  color: #fff;
+  font-size: 16px;
+  padding: 5%;
+  text-align: center;
+}
+
+.divienhancer_caption_wrapper_border {
+	position: absolute;
+	bottom: 0;
+	left: 80%;
+	width: 0;
+	height: 0;
+	border: 8px solid transparent;
+	border-top-color: inherit;
+	border-bottom: 0;
+	margin-left: -8px;
+	margin-bottom: -8px;
+}
+
+.de-caption-left .divienhancer_caption_wrapper_border {
+  left: unset !important;
+  right: 80% !important;
+}
+
+.divienhancer_caption_wrapper_inner {
+  position: relative;
+}
+
+
+
+/*=========== Builder =============*/
+.et-fb-settings-options li.divienhancer_animated_links,
+.et-fb-settings-options li.divienhancer_blog,
+.et-fb-settings-options li.divienhancer_carousel,
+.et-fb-settings-options li.divienhancer_flipBox,
+.et-fb-settings-options li.divienhancer_foodmenu,
+.et-fb-settings-options li.divienhancer_ihover,
+.et-fb-settings-options li.divienhancer_team_member,
+.et-fb-settings-options li.divienhancer_timeLine,
+.et-fb-settings-options li.divienhancer_shop,
+.et-fb-settings-options li.divienhancer_image_comparison,
+.et-fb-settings-options li.divienhancer_box,
+.et-fb-settings-options li.divienhancer_priceBox,
+.et-fb-settings-options li.divienhancer_bingMap,
+.et-fb-settings-options li.divienhancer_infiniteProducts,
+.et-fb-settings-options li.divienhancer_tagCloud,
+.et-fb-settings-options li.divienhancer_tagProducts,
+.et-fb-settings-options li.divienhancer_breadcrumb
+
+{
+  background-color: #f51a7f !important;
+  color: #ffffff !important;
+}
+
+.et-fb-settings-options li.divienhancer_animated_links:hover,
+.et-fb-settings-options li.divienhancer_blog:hover,
+.et-fb-settings-options li.divienhancer_carousel:hover,
+.et-fb-settings-options li.divienhancer_flipBox:hover,
+.et-fb-settings-options li.divienhancer_foodmenu:hover,
+.et-fb-settings-options li.divienhancer_ihover:hover,
+.et-fb-settings-options li.divienhancer_team_member:hover,
+.et-fb-settings-options li.divienhancer_timeLine:hover,
+.et-fb-settings-options li.divienhancer_shop:hover,
+.et-fb-settings-options li.divienhancer_image_comparison:hover,
+.et-fb-settings-options li.divienhancer_box:hover,
+.et-fb-settings-options li.divienhancer_priceBox:hover,
+.et-fb-settings-options li.divienhancer_bingMap:hover,
+.et-fb-settings-options li.divienhancer_infiniteProducts:hover,
+.et-fb-settings-options li.divienhancer_tagCloud:hover,
+.et-fb-settings-options li.divienhancer_tagProducts:hover,
+.et-fb-settings-options li.divienhancer_breadcrumb:hover
+
+{
+  background-color: #e00067 !important;
+  color: #ffffff !important;
+}
+
+
+/*Advertise Notice*/
+.divienhancer_advertise_notice {
+    background-color: #ff0052;
+    display: block;
+    color: #fff;
+    font-size: 18px;
+    padding: 15px;
+    text-align: left;
+    line-height: 1.5em;
+    font-family: inherit;
+    font-weight: 600;
+}
+
+/*====== Modal Pop Up*/
+a.de-modal-img-launch {
+  display: block;
+  width: 100%;
+  cursor: pointer;
+}
+
+button.de-modal-launch {
+    display: inline-block;
+    clear: both;
+    float: left;
+    padding: 0.6em 2.8em;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 1em;
+    font-weight: 600;
+    border-bottom: 3px solid rgba(0,0,0,0.2);
+}
+
+button.de-modal-launch.de-modal-right {
+    display: block;
+    margin: 0 auto 0 0;
+    float: left;
+}
+
+button.de-modal-launch.de-modal-center {
+    display: block;
+    margin: 0 auto;
+    float: none;
+}
+
+button.de-modal-launch.de-modal-right {
+    display: block;
+    margin: 0 0 0 auto;
+    float: right;
+}
+
+.divienhancer-modalpopup {
+  display: none;
+}
+
+.divienhancer-modal-close.md-close {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+    font-size: 40px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+
+}
+
+a.de-modal-img-launch img {
+    display: inline-block;
+}
+
+/*======= DE INTERACTIVE BACKGROUND IMAGE  =======*/
+.divienhancer-interactive_bg .ibg-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/*=================ihover ===================*/
+
+.et_pb_module.divienhancer_ihover {
+  opacity: 0;
+}

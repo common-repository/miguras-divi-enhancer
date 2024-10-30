@@ -1,0 +1,42 @@
+/*======================= SHOP CAROUSEL ===================*/
+/*========================================================*/
+
+
+.divienhancer-shop-carousel-image {
+  position: relative;
+}
+.divienhancer-shop-carousel-image img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+.divienhancer-shop-carousel-badge {
+  position: absolute;
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 2px;
+  left: 15px;
+  top: 15px;
+  background-color: rgba(0,0,0,0.4);
+  color: #fff;
+  font-weight: 600;
+}
+
+.deshopcarousel-style1 .divienhancer-shop-carousel-content {
+  padding: 8% 5% 10%;
+}
+
+.divienhancer-shop-carousel-addtocart {
+padding: 8px 16px;
+display: inline-block;
+text-align: center;
+border-radius: 3px;
+}
+
+.divienhancer-shop-carousel-addtocart-wrapper {
+  width: 100%;
+  display: block;
+}

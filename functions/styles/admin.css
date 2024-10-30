@@ -1,0 +1,111 @@
+.fs-addon[data-slug="divi-enhancer-pro"] .fs-price {
+    height: 18px;
+    width: 100%;
+    display: block;
+    position: relative !important;
+}
+
+.fs-addon[data-slug="divi-enhancer-pro"] .fs-price:after {
+    content: "$26.90";
+    color: #ff0396;
+    display: inline-block;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    font-weight: bold;
+    left: 0;
+    z-index: 999;
+    padding: 0 10px 0 0;
+}
+
+
+a.de-pro-button {
+    display: inline-block;
+    margin: 0 auto;
+    clear: both;
+    background-color: #ff0081;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 60px;
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 900;
+}
+
+.pbc-market-product {
+    width: 20%;
+    margin: 20px 0;
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 30px;
+    box-shadow: 3px 4px 6px 1px #0000001f;
+    float: left;
+    margin-right: 2.5%;
+}
+
+img.pbc-market-product-image {
+    display: block;
+    width: 100%;
+
+}
+
+h2.pbc-market-product-title {
+    font-weight: 700;
+    font-family: arial;
+    font-size: 18px;
+    padding: 10%;
+    line-height: 1.6em;
+    border-top: 3px solid #efeeee;
+    margin-top: 0 !important;
+}
+
+.pbc-market-product li {
+    font-size: 14px !important;
+    line-height: 1.6em;
+}
+
+.pbc-market-wrapper {
+    width: 99%;
+    display: block;
+    float: left;
+    clear: both;
+    font-size: 14px;
+    font-family: arial;
+    margin: 20px auto;
+}
+
+iframe.gumroad-overlay-iframe {
+    z-index: 9999999 !important;
+}
+
+.pbc-market-secure-purchase {
+    padding: 1em;
+    background-color: #00e671d1;
+    color: #fff;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.pbc-market-secure-purchase a {
+  color: #fff;
+}
+
+.pbc-market-secure-purchase-wrapper {
+  width: 100%;
+  display: block;
+  clear: both;
+  float: left;
+}
+
+
+/*============ RESPONSIVE ==================*/
+
+@media (max-width: 980px) {
+
+  .pbc-market-product {
+      width: 80%;
+      margin: 20px auto;
+      margin-right: auto;
+      float: none;
+  }
+}

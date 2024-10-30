@@ -1,0 +1,10 @@
+{
+  "builder.css": "/styles/style.min.css",
+  "builder.js": "/scripts/builder-bundle.min.js",
+  "frontend.css": "/styles/style.min.css",
+  "frontend.js": "/scripts/frontend-bundle.min.js",
+  "media\\slick.eot": "/media/slick.eot",
+  "media\\slick.svg": "/media/slick.svg",
+  "media\\slick.ttf": "/media/slick.ttf",
+  "media\\slick.woff": "/media/slick.woff"
+}

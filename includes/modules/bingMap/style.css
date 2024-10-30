@@ -1,0 +1,84 @@
+/*======================= Bing Map ===================*/
+/*========================================================*/
+.divienhancer_bing_map {
+  max-width: 100%;
+
+}
+
+.bingmap_not_preview {
+    max-width: 100%;
+    background-color: #f7305e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.bingmap_not_preview_title {
+  font-size: 30px;
+  line-height: 1.2em;
+  font-weight: 700;
+}
+
+a.divienhancer_bing_map_updater, .divienhancer_bing_map_address_check {
+  position: absolute;
+  z-index: 9999999;
+  background-color: #ff008d;
+  top: 40%;
+  left: 0;
+  color: #FFFFFF;
+  height: 30px;
+  width: 90px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: 600;
+  font-family: arial;
+  cursor: pointer;
+  font-size: 10px;
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+}
+
+.divienhancer_bing_map_address_check {
+    top: calc(40% + 30px);
+}
+
+
+.divienhancer_bing_map_loading {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  background-color: #ffffff;
+  opacity: 0.7;
+}
+
+
+
+.et_pb_module.divienhancer_bingMapChild{
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  z-index: 99999;
+  
+}
+
+.divienhancer_bingMapChild{ 
+  background-color: #ffffff;
+  padding: 1.5%;
+  width: 200px;
+}
+
+.divienhancer_bing_map_pin_close {
+  font-size: 14px;
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+}
+

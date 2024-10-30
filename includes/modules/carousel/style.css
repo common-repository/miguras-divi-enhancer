@@ -1,0 +1,30 @@
+.divienhancer-over-slides {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 6;
+}
+
+.slick-arrow {
+  top: 47% !important;
+}
+
+button.divienhancer-forceupdate {
+    z-index: 99;
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    width: 140px;
+    text-align: center;
+    margin-left: -70px;
+    height: 40px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: #6b21af;
+    border: none;
+    color: #fff;
+    border-radius: 1000px;
+    font-size: 11px;
+}

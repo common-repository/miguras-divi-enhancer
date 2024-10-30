@@ -1,0 +1,86 @@
+/*======================= Price BOX ===================*/
+/*========================================================*/
+.divienhancer_pricebox_title span {
+    display: inline-block;
+    margin-right: 0.8em;
+}
+
+.divienhancer_pricebox_head {
+    padding: 5% 5% 3%;
+    border-radius: 8px 8px 0 0;
+
+}
+
+.divienhancer_pricebox_head_two {
+    padding: 5%;
+}
+
+.divienhancer_pricebox_list {
+    padding: 5%;
+}
+
+
+h2.divienhancer_pricebox_price {
+  font-size: 60px;
+  color: #ffffff;
+  text-align: center;
+}
+h3.divienhancer_pricebox_subtitle {
+  font-size: 15px;
+  color: #00f2e2;
+  text-align: center;
+  padding: 0.6em 0 1em;
+}
+h4.divienhancer_pricebox_title {
+  font-size: 19px;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+h5.divienhancer_pricebox_intro {
+  font-size: 11px;
+  color: #d1d1d1;
+  text-align: center;
+  padding: 1em 0 1.5em;
+
+}
+h6.divienhancer_pricebox_description {
+  font-size: 11px;
+  color: #d1d1d1;
+  text-align: center;
+}
+.divienhancer_priceBox {
+  color: #888888;
+  font-size: 12px;
+  text-align: center;
+}
+.divienhancer_pricebox_list li {
+    list-style: none;
+    padding: 0.2em 0;
+    border-bottom: 1px dotted rgba(0,0,0,0.1);
+}
+
+a.divienhancer_pricebox_link {
+    display: block;
+    background-color: #008a81;
+    padding: 1em;
+    font-size: 16px;
+    border-radius: 0 0 8px 8px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.divienhancer_pricebox_featured_yes {
+    transform: scale(1.05, 1.05);
+}
+
+.divienhancer_pricebox_currency {
+  font-size: 0.5em;
+  top: -0.6em;
+  position: relative;
+}
+
+span.divienhancer_pricebox_icon {
+    position: relative;
+    top: 0.1em;
+}

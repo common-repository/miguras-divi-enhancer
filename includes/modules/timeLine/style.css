@@ -1,0 +1,187 @@
+/*======================= TIMELINE ===================*/
+/*========================================================*/
+.divienhancer_timeLineChild {
+    position: relative;
+    float: left;
+    clear: both;
+}
+
+.divienhancer_timeLine, .divienhancer_timeLine:hover {
+	padding-bottom: 10%;
+	overflow-y: hidden !important;
+}
+
+.divienhancer_timeline_inner {
+	position: relative;
+	float: left;
+	display: block;
+	width: 100%;
+}
+
+
+.divienhancer_timeline_inner:after {
+    content: "";
+    background-color: #444444;
+    height: 110%;
+    top: 0%;
+    left: 23%;
+    position: absolute;
+		z-index: -1;
+}
+
+.timeline_line_frontbuilder {
+    background-color: #444444;
+    height: 110%;
+    top: 0%;
+    left: 23%;
+    position: absolute;
+		z-index: 9;
+}
+.divienhancer_timeline_after_thin:after, .divienhancer_timeline_after_thin .timeline_line_frontbuilder {
+	width: 4px;
+}
+
+.divienhancer_timeline_after_medium:after, .divienhancer_timeline_after_medium .timeline_line_frontbuilder  {
+	width: 6px;
+}
+
+.divienhancer_timeline_after_bold:after, .divienhancer_timeline_after_bold .timeline_line_frontbuilder  {
+	width: 8px;
+}
+
+.divienhancer_timeline_child_inner {
+	width: 67%;
+	float: right;
+	display: block;
+	margin-bottom: 2.75%;
+	padding: 25px;
+	position: relative;
+}
+
+.divienhancer_timeline_date {
+    width: 20%;
+    display: block;
+    float: left;
+    z-index: 999;
+    position: relative;
+		padding-right: 3%;
+}
+.divienhancer_timeline_icon_wrapper {
+	position: relative;
+	float: left;
+	width: 7%;
+	display: table;
+	margin-left: 3%;
+}
+.divienhancer_timeline_icon {
+    display: block;
+    z-index: 999;
+    text-align: center;
+    border-radius: 1000px;
+		margin-top: 45%;
+		position: relative;
+}
+
+.divienhancer_iconsize_small {
+	font-size: 15px;
+	line-height: 25px;
+	height: 25px;
+	width: 25px;
+}
+
+.divienhancer_iconsize_medium {
+	font-size: 20px;
+	line-height: 40px;
+	height: 40px;
+	width: 40px;
+}
+
+
+.divienhancer_iconsize_large {
+	font-size: 30px;
+	line-height: 55px;
+	height: 55px;
+	width: 55px;
+}
+
+.divienhancer_timeline_after_thin .divienhancer_iconsize_small {
+	margin-left: -10px;
+}
+
+.divienhancer_timeline_after_thin .divienhancer_iconsize_medium {
+	margin-left: -18px;
+}
+
+.divienhancer_timeline_after_thin .divienhancer_iconsize_large {
+	margin-left: -26px;
+}
+
+.divienhancer_timeline_after_medium .divienhancer_iconsize_small {
+	margin-left: -9px;
+}
+
+.divienhancer_timeline_after_medium .divienhancer_iconsize_medium {
+	margin-left: -17px;
+}
+
+.divienhancer_timeline_after_medium .divienhancer_iconsize_large {
+	margin-left: -25px;
+}
+
+.divienhancer_timeline_after_bold .divienhancer_iconsize_small {
+	margin-left: -8px;
+}
+
+.divienhancer_timeline_after_bold .divienhancer_iconsize_medium {
+	margin-left: -16px;
+}
+
+.divienhancer_timeline_after_bold .divienhancer_iconsize_large {
+	margin-left: -24px;
+}
+
+/*============responsive=====*/
+@media only screen and (max-width: 980px) {
+  .divienhancer_timeline_icon {
+    margin-top: 0;
+  }
+
+  .divienhancer_timeline_date {
+
+    margin-top: 4px;
+  }
+
+  .divienhancer_iconsize_small, .divienhancer_iconsize_medium, .divienhancer_iconsize_large  {
+    font-size: 18px;
+    line-height: 30px;
+    height: 30px;
+    width: 30px;
+  }
+
+  .divienhancer_timeline_after_thin .divienhancer_iconsize_small,
+  .divienhancer_timeline_after_thin .divienhancer_iconsize_medium,
+  .divienhancer_timeline_after_thin .divienhancer_iconsize_large,
+  .divienhancer_timeline_after_medium .divienhancer_iconsize_small,
+  .divienhancer_timeline_after_medium .divienhancer_iconsize_medium,
+  .divienhancer_timeline_after_medium .divienhancer_iconsize_large,
+  .divienhancer_timeline_after_bold .divienhancer_iconsize_small,
+  .divienhancer_timeline_after_bold .divienhancer_iconsize_medium,
+  .divienhancer_timeline_after_bold .divienhancer_iconsize_large
+
+  {
+  	margin-left: -12px;
+  }
+
+  .divienhancer_timeline_child_inner {
+    width: 100%;
+  }
+
+  .divienhancer_timeline_date {
+    width: 32%;
+  }
+
+  .divienhancer_timeline_inner:after{
+    left: 35%;
+  }
+
+}

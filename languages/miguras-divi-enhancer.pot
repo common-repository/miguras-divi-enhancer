@@ -1,0 +1,2216 @@
+# Copyright (C) 2019 Miguras
+# This file is distributed under the same license as the DIVI Enhancer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: DIVI Enhancer 4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/miguras-divi-enhancer\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-04T20:14:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: divienhancer\n"
+
+#. Plugin Name of the plugin
+#: panel/divienhancer-options.php:10
+msgid "DIVI Enhancer"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://miguras.com/divi_enhancer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add custom modules and options to DIVI"
+msgstr ""
+
+#. Author of the plugin
+msgid "Miguras"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://miguras.com"
+msgstr ""
+
+#: custom/modules-mod.php:51
+#: custom/modules-mod.php:177
+#: includes/modules/tagProducts/tagProducts.php:188
+#: includes/modules/teamMember/teamMember.php:227
+#: includes/modules/teamMember/teamMember.php:256
+#: includes/modules/teamMember/teamMember.php:285
+msgid "None"
+msgstr ""
+
+#: custom/modules-mod.php:56
+#: custom/modules-mod.php:250
+#: panel/divienhancer-options.php:267
+msgid "Caption"
+msgstr ""
+
+#: custom/modules-mod.php:63
+#: panel/divienhancer-options.php:282
+msgid "Hover Effects"
+msgstr ""
+
+#: custom/modules-mod.php:71
+#: custom/modules-mod.php:218
+msgid "Sticky Module"
+msgstr ""
+
+#: custom/modules-mod.php:79
+#: custom/modules-mod.php:285
+#: panel/divienhancer-options.php:312
+msgid "Modal Pop Up"
+msgstr ""
+
+#: custom/modules-mod.php:88
+msgid "Module as Menu"
+msgstr ""
+
+#: custom/modules-mod.php:96
+#: panel/divienhancer-options.php:342
+msgid "Interactive Background Image"
+msgstr ""
+
+#: custom/modules-mod.php:104
+msgid "DIVI Enhancer Options"
+msgstr ""
+
+#: custom/modules-mod.php:109
+msgid "Choose an option to set values"
+msgstr ""
+
+#: custom/modules-mod.php:117
+msgid "Activate Interactive Background Image"
+msgstr ""
+
+#: custom/modules-mod.php:120
+#: custom/modules-mod.php:221
+#: custom/modules-mod.php:288
+#: custom/modules-mod.php:417
+#: includes/modules/infiniteProducts/infiniteProducts.php:287
+#: includes/modules/infiniteProducts/infiniteProducts.php:302
+#: includes/modules/infiniteProducts/infiniteProducts.php:317
+#: includes/modules/infiniteProducts/infiniteProducts.php:332
+#: includes/modules/infiniteProducts/infiniteProducts.php:347
+#: includes/modules/priceBox/priceBox.php:306
+#: includes/modules/shop/shop.php:283
+#: includes/modules/shop/shop.php:298
+#: includes/modules/shop/shop.php:313
+#: includes/modules/shop/shop.php:328
+#: includes/modules/shop/shop.php:343
+msgid "No"
+msgstr ""
+
+#: custom/modules-mod.php:121
+#: custom/modules-mod.php:222
+#: custom/modules-mod.php:289
+#: custom/modules-mod.php:418
+#: includes/modules/infiniteProducts/infiniteProducts.php:286
+#: includes/modules/infiniteProducts/infiniteProducts.php:301
+#: includes/modules/infiniteProducts/infiniteProducts.php:316
+#: includes/modules/infiniteProducts/infiniteProducts.php:331
+#: includes/modules/infiniteProducts/infiniteProducts.php:346
+#: includes/modules/priceBox/priceBox.php:307
+#: includes/modules/shop/shop.php:282
+#: includes/modules/shop/shop.php:297
+#: includes/modules/shop/shop.php:312
+#: includes/modules/shop/shop.php:327
+#: includes/modules/shop/shop.php:342
+msgid "Yes"
+msgstr ""
+
+#: custom/modules-mod.php:125
+msgid "Moves Background Image on mouse over"
+msgstr ""
+
+#: custom/modules-mod.php:130
+msgid "Strength"
+msgstr ""
+
+#: custom/modules-mod.php:144
+msgid "Scale"
+msgstr ""
+
+#: custom/modules-mod.php:158
+#: includes/modules/carousel/carousel.php:237
+#: includes/modules/shop/shop.php:470
+msgid "Speed"
+msgstr ""
+
+#: custom/modules-mod.php:174
+msgid "Hover Effect"
+msgstr ""
+
+#: custom/modules-mod.php:178
+msgid "Grow"
+msgstr ""
+
+#: custom/modules-mod.php:179
+msgid "Shrink"
+msgstr ""
+
+#: custom/modules-mod.php:180
+msgid "Pulse"
+msgstr ""
+
+#: custom/modules-mod.php:181
+msgid "Pulse Grow"
+msgstr ""
+
+#: custom/modules-mod.php:182
+msgid "Pulse Shrink "
+msgstr ""
+
+#: custom/modules-mod.php:183
+msgid "Push"
+msgstr ""
+
+#: custom/modules-mod.php:184
+msgid "Pop"
+msgstr ""
+
+#: custom/modules-mod.php:185
+msgid "Rotate"
+msgstr ""
+
+#: custom/modules-mod.php:186
+msgid "Grow Rotate"
+msgstr ""
+
+#: custom/modules-mod.php:187
+msgid "Float"
+msgstr ""
+
+#: custom/modules-mod.php:188
+msgid "Bounce In"
+msgstr ""
+
+#: custom/modules-mod.php:189
+msgid "Bounce Out"
+msgstr ""
+
+#: custom/modules-mod.php:190
+msgid "Sink"
+msgstr ""
+
+#: custom/modules-mod.php:191
+msgid "Bob"
+msgstr ""
+
+#: custom/modules-mod.php:192
+msgid "Hang"
+msgstr ""
+
+#: custom/modules-mod.php:193
+msgid "Skew"
+msgstr ""
+
+#: custom/modules-mod.php:194
+msgid "Vertical Wobble"
+msgstr ""
+
+#: custom/modules-mod.php:195
+msgid "Horizontal Wobble"
+msgstr ""
+
+#: custom/modules-mod.php:196
+msgid "Skew Backward"
+msgstr ""
+
+#: custom/modules-mod.php:197
+msgid "Skew Forward"
+msgstr ""
+
+#: custom/modules-mod.php:198
+msgid "Wobble to Bottom Right"
+msgstr ""
+
+#: custom/modules-mod.php:199
+msgid "Wobble to Top Right"
+msgstr ""
+
+#: custom/modules-mod.php:200
+msgid "Top Wobble"
+msgstr ""
+
+#: custom/modules-mod.php:201
+msgid "Bottom Wobble"
+msgstr ""
+
+#: custom/modules-mod.php:202
+msgid "Wobble Skew"
+msgstr ""
+
+#: custom/modules-mod.php:203
+msgid "Buzz"
+msgstr ""
+
+#: custom/modules-mod.php:204
+msgid "Buzz Out"
+msgstr ""
+
+#: custom/modules-mod.php:205
+msgid "Forward"
+msgstr ""
+
+#: custom/modules-mod.php:206
+msgid "Backward"
+msgstr ""
+
+#: custom/modules-mod.php:211
+msgid "CSS effects when mouse pass over the module"
+msgstr ""
+
+#: custom/modules-mod.php:226
+msgid "Keeps modules attached at top when scrolling"
+msgstr ""
+
+#: custom/modules-mod.php:231
+msgid "Distance From Top"
+msgstr ""
+
+#: custom/modules-mod.php:234
+msgid "Distance from top"
+msgstr ""
+
+#: custom/modules-mod.php:240
+msgid "Bottom Detachment"
+msgstr ""
+
+#: custom/modules-mod.php:243
+msgid "The module it will be detached when the page scroll reach a distance from bottom equal to value."
+msgstr ""
+
+#: custom/modules-mod.php:254
+msgid "Insert caption content here"
+msgstr ""
+
+#: custom/modules-mod.php:259
+msgid "Caption Background"
+msgstr ""
+
+#: custom/modules-mod.php:267
+msgid "Caption Text Color"
+msgstr ""
+
+#: custom/modules-mod.php:276
+msgid "Caption Text Sixe"
+msgstr ""
+
+#: custom/modules-mod.php:293
+msgid "Transform this in a modal pop up, hiding it and then showing it when uses triggers different events"
+msgstr ""
+
+#: custom/modules-mod.php:299
+msgid "Modal Effect"
+msgstr ""
+
+#: custom/modules-mod.php:302
+msgid "Fade In and Scale Up"
+msgstr ""
+
+#: custom/modules-mod.php:303
+msgid "Slide from the Right"
+msgstr ""
+
+#: custom/modules-mod.php:304
+msgid "Slide from the Bottom"
+msgstr ""
+
+#: custom/modules-mod.php:305
+msgid "Newspaper"
+msgstr ""
+
+#: custom/modules-mod.php:306
+msgid "Fall In"
+msgstr ""
+
+#: custom/modules-mod.php:307
+msgid "Slide Fall In"
+msgstr ""
+
+#: custom/modules-mod.php:308
+msgid "Slide in and Stick to Top"
+msgstr ""
+
+#: custom/modules-mod.php:315
+msgid "Super Scaled"
+msgstr ""
+
+#: custom/modules-mod.php:316
+msgid "Just Me"
+msgstr ""
+
+#: custom/modules-mod.php:328
+msgid "Modal Overlay Background Color"
+msgstr ""
+
+#: custom/modules-mod.php:339
+msgid "Trigger"
+msgstr ""
+
+#: custom/modules-mod.php:342
+msgid "Time Delay"
+msgstr ""
+
+#: custom/modules-mod.php:343
+msgid "Button"
+msgstr ""
+
+#: custom/modules-mod.php:344
+#: includes/modules/teamMember/teamMember.php:192
+#: includes/modules/teamMember/teamMember.php:195
+msgid "Position"
+msgstr ""
+
+#: custom/modules-mod.php:353
+msgid "Time delay in miliseconds"
+msgstr ""
+
+#: custom/modules-mod.php:363
+msgid "1000ms = 1s"
+msgstr ""
+
+#: custom/modules-mod.php:370
+#: custom/modules-mod.php:460
+#: includes/modules/box/box.php:223
+#: includes/modules/box/box.php:225
+msgid "Button Text"
+msgstr ""
+
+#: custom/modules-mod.php:373
+msgid "Text entered here will appear as button text."
+msgstr ""
+
+#: custom/modules-mod.php:381
+msgid "Button Alignment"
+msgstr ""
+
+#: custom/modules-mod.php:384
+#: custom/modules-mod.php:431
+#: includes/modules/infiniteProducts/infiniteProducts.php:423
+#: includes/modules/shop/shop.php:652
+#: includes/modules/teamMember/teamMember.php:329
+msgid "Left"
+msgstr ""
+
+#: custom/modules-mod.php:385
+#: includes/modules/infiniteProducts/infiniteProducts.php:424
+#: includes/modules/shop/shop.php:653
+#: includes/modules/teamMember/teamMember.php:330
+msgid "Center"
+msgstr ""
+
+#: custom/modules-mod.php:386
+#: custom/modules-mod.php:432
+#: includes/modules/infiniteProducts/infiniteProducts.php:425
+#: includes/modules/shop/shop.php:654
+#: includes/modules/teamMember/teamMember.php:331
+msgid "Right"
+msgstr ""
+
+#: custom/modules-mod.php:396
+msgid "Custom Button CSS"
+msgstr ""
+
+#: custom/modules-mod.php:405
+msgid "Box CSS"
+msgstr ""
+
+#: custom/modules-mod.php:414
+msgid "Transform Module"
+msgstr ""
+
+#: custom/modules-mod.php:422
+#: custom/modules-mod.php:436
+msgid "Transform Module in a floating menu item with icon as button"
+msgstr ""
+
+#: custom/modules-mod.php:428
+msgid "Module Position"
+msgstr ""
+
+#: custom/modules-mod.php:441
+#: includes/modules/box/box.php:202
+#: includes/modules/priceBox/priceBox.php:249
+#: includes/modules/timeLineChild/timeLineChild.php:87
+msgid "Select Icon"
+msgstr ""
+
+#: custom/modules-mod.php:446
+msgid "Choose an icon to display inside the button."
+msgstr ""
+
+#: custom/modules-mod.php:450
+msgid "Icon & Text Size"
+msgstr ""
+
+#: custom/modules-mod.php:467
+msgid "Select Icon for close modal"
+msgstr ""
+
+#: custom/modules-mod.php:472
+msgid "Choose an icon to close the button."
+msgstr ""
+
+#: custom/modules-mod.php:476
+msgid "Button Background Color"
+msgstr ""
+
+#: custom/modules-mod.php:486
+msgid "Button Text&Icon Color"
+msgstr ""
+
+#: custom/modules-mod.php:496
+msgid "Menu Bottom Margin"
+msgstr ""
+
+#: custom/modules-mod.php:501
+msgid "Do not use px or em, just number"
+msgstr ""
+
+#: custom/modules-mod.php:507
+msgid "Button CSS"
+msgstr ""
+
+#: custom/modules-mod.php:515
+msgid "Menu Distance from Top"
+msgstr ""
+
+#: custom/modules-mod.php:518
+msgid "Last module added it is mandatory and it will define the menu distance from top"
+msgstr ""
+
+#: custom/theme-customizer.php:17
+msgid "Divi Enhancer Bing Key"
+msgstr ""
+
+#: custom/theme-customizer.php:34
+msgid "Dropdown Text Size"
+msgstr ""
+
+#: custom/theme-customizer.php:55
+msgid "Footer Visibility"
+msgstr ""
+
+#: custom/theme-customizer.php:80
+msgid "Logo Size (px)"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:17
+msgid "DE Animated Links"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:22
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:58
+#: includes/modules/bingMap/bingMap.php:72
+#: includes/modules/box/box.php:50
+#: includes/modules/box/box.php:194
+#: includes/modules/carousel/carousel.php:72
+#: includes/modules/carouselChild/carouselChild.php:32
+#: includes/modules/carouselChild/carouselChild.php:89
+#: includes/modules/flipBox/flipBox.php:72
+#: includes/modules/flipBoxChild/flipBoxChild.php:30
+#: includes/modules/foodMenu/foodMenu.php:67
+#: includes/modules/iHover/iHover.php:53
+#: includes/modules/iHover/iHover.php:176
+#: includes/modules/imageComparison/imageComparison.php:39
+#: includes/modules/infiniteProducts/infiniteProducts.php:64
+#: includes/modules/priceBox/priceBox.php:75
+#: includes/modules/shop/shop.php:65
+#: includes/modules/tagCloudChild/tagCloudChild.php:32
+#: includes/modules/tagCloudChild/tagCloudChild.php:158
+#: includes/modules/teamMember/teamMember.php:59
+#: includes/modules/timeLine/timeLine.php:72
+#: includes/modules/timeLineChild/timeLineChild.php:30
+#: includes/modules/timeLineChild/timeLineChild.php:141
+msgid "Content"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:28
+#: includes/modules/bingMap/bingMap.php:29
+#: includes/modules/box/box.php:28
+#: includes/modules/carousel/carousel.php:29
+#: includes/modules/carouselChild/carouselChild.php:38
+#: includes/modules/flipBox/flipBox.php:29
+#: includes/modules/foodMenu/foodMenu.php:28
+#: includes/modules/iHover/iHover.php:27
+#: includes/modules/imageComparison/imageComparison.php:28
+#: includes/modules/infiniteProducts/infiniteProducts.php:30
+#: includes/modules/priceBox/priceBox.php:30
+#: includes/modules/shop/shop.php:30
+#: includes/modules/tagCloudChild/tagCloudChild.php:38
+#: includes/modules/tagCloudChild/tagCloudChild.php:78
+#: includes/modules/tagCloudChild/tagCloudChild.php:128
+#: includes/modules/teamMember/teamMember.php:29
+#: includes/modules/timeLine/timeLine.php:29
+#: includes/modules/timeLineChild/timeLineChild.php:37
+msgid "Text"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:87
+#: includes/modules/iHover/iHover.php:203
+#: includes/modules/iHover/iHover.php:237
+msgid "Effect Style"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:90
+#: includes/modules/iHover/iHover.php:206
+#: includes/modules/iHover/iHover.php:240
+msgid "Effect 1"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:91
+#: includes/modules/iHover/iHover.php:207
+#: includes/modules/iHover/iHover.php:241
+msgid "Effect 2"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:92
+#: includes/modules/iHover/iHover.php:208
+#: includes/modules/iHover/iHover.php:242
+msgid "Effect 3"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:93
+#: includes/modules/iHover/iHover.php:209
+#: includes/modules/iHover/iHover.php:243
+msgid "Effect 4"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:94
+#: includes/modules/iHover/iHover.php:210
+#: includes/modules/iHover/iHover.php:244
+msgid "Effect 5"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:95
+#: includes/modules/iHover/iHover.php:211
+#: includes/modules/iHover/iHover.php:245
+msgid "Effect 6"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:96
+#: includes/modules/iHover/iHover.php:212
+#: includes/modules/iHover/iHover.php:246
+msgid "Effect 7"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:97
+#: includes/modules/iHover/iHover.php:213
+#: includes/modules/iHover/iHover.php:247
+msgid "Effect 8"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:98
+#: includes/modules/iHover/iHover.php:214
+#: includes/modules/iHover/iHover.php:248
+msgid "Effect 9"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:99
+#: includes/modules/iHover/iHover.php:215
+#: includes/modules/iHover/iHover.php:249
+msgid "Effect 10"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:100
+#: includes/modules/iHover/iHover.php:216
+#: includes/modules/iHover/iHover.php:250
+msgid "Effect 11"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:101
+#: includes/modules/iHover/iHover.php:217
+#: includes/modules/iHover/iHover.php:251
+msgid "Effect 12"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:102
+#: includes/modules/iHover/iHover.php:218
+#: includes/modules/iHover/iHover.php:252
+msgid "Effect 13"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:103
+#: includes/modules/iHover/iHover.php:219
+#: includes/modules/iHover/iHover.php:253
+msgid "Effect 14"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:104
+#: includes/modules/iHover/iHover.php:220
+#: includes/modules/iHover/iHover.php:254
+msgid "Effect 15"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:105
+#: includes/modules/iHover/iHover.php:221
+msgid "Effect 16"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:106
+#: includes/modules/iHover/iHover.php:222
+msgid "Effect 17"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:107
+#: includes/modules/iHover/iHover.php:223
+msgid "Effect 18"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:108
+#: includes/modules/iHover/iHover.php:224
+msgid "Effect 19"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:109
+#: includes/modules/iHover/iHover.php:225
+msgid "Effect 20"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:110
+msgid "Effect 21"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:115
+#: includes/modules/foodMenu/foodMenu.php:196
+#: includes/modules/iHover/iHover.php:199
+#: includes/modules/iHover/iHover.php:230
+#: includes/modules/iHover/iHover.php:257
+#: includes/modules/priceBox/priceBox.php:239
+#: includes/modules/teamMember/teamMember.php:220
+msgid "Choose the link style"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:118
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:121
+msgid "Link Text"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:127
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:130
+msgid "Second Link Text"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:136
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:142
+#: includes/modules/AnimatedLinks/AnimatedLinks.php:145
+msgid "Link URL"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:18
+msgid "DE Bing Map"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:23
+#: includes/modules/carousel/carousel.php:23
+#: includes/modules/flipBox/flipBox.php:23
+#: includes/modules/priceBox/priceBox.php:23
+#: includes/modules/tagCloud/tagCloud.php:23
+#: includes/modules/timeLine/timeLine.php:23
+msgid "Main Settings"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:34
+#: includes/modules/box/box.php:33
+#: includes/modules/carousel/carousel.php:34
+#: includes/modules/carouselChild/carouselChild.php:43
+#: includes/modules/flipBox/flipBox.php:34
+#: includes/modules/foodMenu/foodMenu.php:33
+#: includes/modules/iHover/iHover.php:32
+#: includes/modules/priceBox/priceBox.php:37
+#: includes/modules/tagCloudChild/tagCloudChild.php:43
+#: includes/modules/teamMember/teamMember.php:34
+#: includes/modules/timeLine/timeLine.php:34
+#: includes/modules/timeLineChild/timeLineChild.php:42
+msgid "Heading Text"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:91
+#: includes/modules/box/box.php:66
+#: includes/modules/carousel/carousel.php:88
+#: includes/modules/carouselChild/carouselChild.php:105
+#: includes/modules/flipBox/flipBox.php:88
+#: includes/modules/foodMenu/foodMenu.php:83
+#: includes/modules/iHover/iHover.php:69
+#: includes/modules/imageComparison/imageComparison.php:55
+#: includes/modules/infiniteProducts/infiniteProducts.php:80
+#: includes/modules/priceBox/priceBox.php:94
+#: includes/modules/shop/shop.php:81
+#: includes/modules/tagCloudChild/tagCloudChild.php:174
+#: includes/modules/teamMember/teamMember.php:75
+#: includes/modules/timeLine/timeLine.php:88
+#: includes/modules/timeLineChild/timeLineChild.php:157
+msgid "Heading"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:102
+#: includes/modules/box/box.php:77
+#: includes/modules/carousel/carousel.php:99
+#: includes/modules/carouselChild/carouselChild.php:116
+#: includes/modules/flipBox/flipBox.php:99
+#: includes/modules/foodMenu/foodMenu.php:94
+#: includes/modules/iHover/iHover.php:80
+#: includes/modules/imageComparison/imageComparison.php:66
+#: includes/modules/infiniteProducts/infiniteProducts.php:91
+#: includes/modules/priceBox/priceBox.php:105
+#: includes/modules/shop/shop.php:92
+#: includes/modules/tagCloudChild/tagCloudChild.php:185
+#: includes/modules/teamMember/teamMember.php:86
+#: includes/modules/timeLine/timeLine.php:99
+#: includes/modules/timeLineChild/timeLineChild.php:168
+msgid "Heading 2"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:122
+#: includes/modules/box/box.php:91
+#: includes/modules/carousel/carousel.php:113
+#: includes/modules/carouselChild/carouselChild.php:130
+#: includes/modules/flipBox/flipBox.php:113
+#: includes/modules/foodMenu/foodMenu.php:108
+#: includes/modules/iHover/iHover.php:94
+#: includes/modules/imageComparison/imageComparison.php:80
+#: includes/modules/infiniteProducts/infiniteProducts.php:105
+#: includes/modules/priceBox/priceBox.php:125
+#: includes/modules/shop/shop.php:106
+#: includes/modules/tagCloudChild/tagCloudChild.php:199
+#: includes/modules/teamMember/teamMember.php:100
+#: includes/modules/timeLine/timeLine.php:113
+#: includes/modules/timeLineChild/timeLineChild.php:182
+msgid "Heading 3"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:145
+#: includes/modules/box/box.php:105
+#: includes/modules/carousel/carousel.php:127
+#: includes/modules/carouselChild/carouselChild.php:144
+#: includes/modules/flipBox/flipBox.php:127
+#: includes/modules/foodMenu/foodMenu.php:122
+#: includes/modules/iHover/iHover.php:108
+#: includes/modules/imageComparison/imageComparison.php:94
+#: includes/modules/infiniteProducts/infiniteProducts.php:119
+#: includes/modules/priceBox/priceBox.php:148
+#: includes/modules/shop/shop.php:120
+#: includes/modules/tagCloudChild/tagCloudChild.php:213
+#: includes/modules/teamMember/teamMember.php:114
+#: includes/modules/timeLine/timeLine.php:127
+#: includes/modules/timeLineChild/timeLineChild.php:196
+msgid "Heading 4"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:168
+#: includes/modules/box/box.php:119
+#: includes/modules/carousel/carousel.php:141
+#: includes/modules/carouselChild/carouselChild.php:158
+#: includes/modules/flipBox/flipBox.php:141
+#: includes/modules/foodMenu/foodMenu.php:136
+#: includes/modules/iHover/iHover.php:122
+#: includes/modules/imageComparison/imageComparison.php:108
+#: includes/modules/infiniteProducts/infiniteProducts.php:133
+#: includes/modules/priceBox/priceBox.php:171
+#: includes/modules/shop/shop.php:134
+#: includes/modules/tagCloudChild/tagCloudChild.php:227
+#: includes/modules/teamMember/teamMember.php:128
+#: includes/modules/timeLine/timeLine.php:141
+#: includes/modules/timeLineChild/timeLineChild.php:210
+msgid "Heading 5"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:188
+#: includes/modules/box/box.php:133
+#: includes/modules/carousel/carousel.php:155
+#: includes/modules/carouselChild/carouselChild.php:172
+#: includes/modules/flipBox/flipBox.php:155
+#: includes/modules/foodMenu/foodMenu.php:150
+#: includes/modules/iHover/iHover.php:136
+#: includes/modules/imageComparison/imageComparison.php:122
+#: includes/modules/infiniteProducts/infiniteProducts.php:147
+#: includes/modules/priceBox/priceBox.php:191
+#: includes/modules/shop/shop.php:148
+#: includes/modules/tagCloudChild/tagCloudChild.php:241
+#: includes/modules/teamMember/teamMember.php:142
+#: includes/modules/timeLine/timeLine.php:155
+#: includes/modules/timeLineChild/timeLineChild.php:224
+msgid "Heading 6"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:229
+msgid "Map ID"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:237
+msgid "Map Coordinates (Latitude, Longitude)"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:245
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:258
+msgid "Map Width"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:266
+msgid "Map Height"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:275
+msgid "Map Type"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:278
+msgid "Aerial"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:279
+msgid "Canvas Dark"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:280
+msgid "Canvas Light"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:281
+msgid "Birds Eye"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:282
+msgid "Gray Scale"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:283
+msgid "Road"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:284
+msgid "Streetside"
+msgstr ""
+
+#: includes/modules/bingMap/bingMap.php:287
+msgid "more info: https://msdn.microsoft.com/en-us/library/mt712700.aspx"
+msgstr ""
+
+#: includes/modules/box/box.php:17
+msgid "DE Box"
+msgstr ""
+
+#: includes/modules/box/box.php:22
+#: includes/modules/foodMenu/foodMenu.php:22
+#: includes/modules/iHover/iHover.php:21
+#: includes/modules/imageComparison/imageComparison.php:22
+#: includes/modules/infiniteProducts/infiniteProducts.php:22
+#: includes/modules/shop/shop.php:22
+#: includes/modules/tagProducts/tagProducts.php:22
+msgid "Main"
+msgstr ""
+
+#: includes/modules/box/box.php:169
+#: includes/modules/foodMenu/foodMenu.php:187
+#: includes/modules/infiniteProducts/infiniteProducts.php:217
+#: includes/modules/priceBox/priceBox.php:233
+#: includes/modules/shop/shop.php:232
+msgid "Style"
+msgstr ""
+
+#: includes/modules/box/box.php:172
+#: includes/modules/infiniteProducts/infiniteProducts.php:221
+#: includes/modules/shop/shop.php:236
+msgid "Style One"
+msgstr ""
+
+#: includes/modules/box/box.php:175
+msgid "Choose the style"
+msgstr ""
+
+#: includes/modules/box/box.php:179
+#: includes/modules/iHover/iHover.php:183
+msgid "Upload"
+msgstr ""
+
+#: includes/modules/box/box.php:181
+#: includes/modules/foodMenu/foodMenu.php:201
+#: includes/modules/iHover/iHover.php:185
+#: includes/modules/imageComparison/imageComparison.php:159
+#: includes/modules/imageComparison/imageComparison.php:174
+#: includes/modules/tagCloudChild/tagCloudChild.php:87
+#: includes/modules/teamMember/teamMember.php:179
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/box/box.php:182
+#: includes/modules/foodMenu/foodMenu.php:202
+#: includes/modules/iHover/iHover.php:186
+#: includes/modules/imageComparison/imageComparison.php:160
+#: includes/modules/imageComparison/imageComparison.php:175
+#: includes/modules/tagCloudChild/tagCloudChild.php:88
+#: includes/modules/teamMember/teamMember.php:180
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/box/box.php:183
+#: includes/modules/foodMenu/foodMenu.php:203
+#: includes/modules/iHover/iHover.php:187
+#: includes/modules/imageComparison/imageComparison.php:161
+#: includes/modules/imageComparison/imageComparison.php:176
+#: includes/modules/tagCloudChild/tagCloudChild.php:89
+#: includes/modules/teamMember/teamMember.php:181
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/box/box.php:188
+#: includes/modules/box/box.php:190
+#: includes/modules/foodMenu/foodMenu.php:207
+#: includes/modules/priceBox/priceBox.php:242
+#: includes/modules/tagProducts/tagProducts.php:186
+#: includes/modules/timeLineChild/timeLineChild.php:73
+msgid "Title"
+msgstr ""
+
+#: includes/modules/box/box.php:197
+#: includes/modules/carouselChild/carouselChild.php:77
+#: includes/modules/flipBoxChild/flipBoxChild.php:49
+#: includes/modules/iHover/iHover.php:179
+#: includes/modules/timeLineChild/timeLineChild.php:97
+msgid "Content entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/box/box.php:210
+#: includes/modules/foodMenu/foodMenu.php:53
+#: includes/modules/foodMenu/foodMenu.php:237
+#: includes/modules/iHover/iHover.php:263
+#: includes/modules/teamMember/teamMember.php:50
+#: includes/modules/teamMember/teamMember.php:339
+msgid "Main Color"
+msgstr ""
+
+#: includes/modules/box/box.php:216
+#: includes/modules/box/box.php:218
+msgid "Link"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:18
+msgid "DE Carousel"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:178
+#: includes/modules/shop/shop.php:391
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:202
+#: includes/modules/shop/shop.php:423
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:227
+#: includes/modules/shop/shop.php:457
+msgid "Autoplay"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:230
+#: includes/modules/carousel/carousel.php:253
+#: includes/modules/carousel/carousel.php:263
+#: includes/modules/carousel/carousel.php:273
+#: includes/modules/carousel/carousel.php:299
+#: includes/modules/imageComparison/imageComparison.php:222
+#: includes/modules/imageComparison/imageComparison.php:233
+#: includes/modules/imageComparison/imageComparison.php:244
+#: includes/modules/imageComparison/imageComparison.php:255
+#: includes/modules/shop/shop.php:460
+#: includes/modules/shop/shop.php:489
+#: includes/modules/shop/shop.php:502
+#: includes/modules/shop/shop.php:515
+#: includes/modules/shop/shop.php:547
+msgid "no"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:231
+#: includes/modules/carousel/carousel.php:254
+#: includes/modules/carousel/carousel.php:264
+#: includes/modules/carousel/carousel.php:274
+#: includes/modules/carousel/carousel.php:300
+#: includes/modules/imageComparison/imageComparison.php:223
+#: includes/modules/imageComparison/imageComparison.php:234
+#: includes/modules/imageComparison/imageComparison.php:245
+#: includes/modules/imageComparison/imageComparison.php:256
+#: includes/modules/shop/shop.php:461
+#: includes/modules/shop/shop.php:490
+#: includes/modules/shop/shop.php:503
+#: includes/modules/shop/shop.php:516
+#: includes/modules/shop/shop.php:548
+msgid "yes"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:240
+#: includes/modules/shop/shop.php:473
+msgid "1s"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:241
+#: includes/modules/shop/shop.php:474
+msgid "2s"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:242
+#: includes/modules/shop/shop.php:475
+msgid "3s"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:243
+#: includes/modules/shop/shop.php:476
+msgid "4s"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:244
+#: includes/modules/shop/shop.php:477
+msgid "5s"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:250
+#: includes/modules/shop/shop.php:486
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:260
+#: includes/modules/shop/shop.php:499
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:270
+#: includes/modules/shop/shop.php:512
+msgid "Use Custom Icons"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:279
+#: includes/modules/shop/shop.php:521
+msgid "Custom Backward Icon"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:287
+#: includes/modules/shop/shop.php:532
+msgid "Custom Forward Icon"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:296
+#: includes/modules/shop/shop.php:544
+msgid "Show Dots"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:305
+#: includes/modules/shop/shop.php:568
+msgid "Arrows Color"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:311
+#: includes/modules/shop/shop.php:574
+msgid "Custom Icons Size"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:327
+#: includes/modules/shop/shop.php:590
+msgid "Dot Size"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:330
+#: includes/modules/shop/shop.php:593
+#: includes/modules/timeLineChild/timeLineChild.php:105
+msgid "Small"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:331
+#: includes/modules/shop/shop.php:594
+#: includes/modules/timeLine/timeLine.php:188
+#: includes/modules/timeLineChild/timeLineChild.php:106
+msgid "Medium"
+msgstr ""
+
+#: includes/modules/carousel/carousel.php:332
+#: includes/modules/shop/shop.php:595
+msgid "Big"
+msgstr ""
+
+#: includes/modules/carouselChild/carouselChild.php:25
+#: includes/modules/tagCloudChild/tagCloudChild.php:25
+msgid "Item"
+msgstr ""
+
+#: includes/modules/carouselChild/carouselChild.php:26
+#: includes/modules/tagCloudChild/tagCloudChild.php:26
+msgid "Item Settings"
+msgstr ""
+
+#: includes/modules/carouselChild/carouselChild.php:67
+msgid "Slide Identifier"
+msgstr ""
+
+#: includes/modules/carouselChild/carouselChild.php:70
+msgid "This lets you identify each slide at modal"
+msgstr ""
+
+#: includes/modules/carouselChild/carouselChild.php:74
+#: includes/modules/timeLineChild/timeLineChild.php:94
+msgid "Main Content"
+msgstr ""
+
+#: includes/modules/flipBox/flipBox.php:18
+msgid "DE FlipBox"
+msgstr ""
+
+#: includes/modules/flipBoxChild/flipBoxChild.php:39
+#: includes/modules/timeLineChild/timeLineChild.php:66
+msgid "Identifier"
+msgstr ""
+
+#: includes/modules/flipBoxChild/flipBoxChild.php:42
+#: includes/modules/timeLineChild/timeLineChild.php:69
+msgid "This lets you identify each item at modal"
+msgstr ""
+
+#: includes/modules/flipBoxChild/flipBoxChild.php:46
+msgid "Box Content"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:17
+msgid "DE Food Menu"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:52
+#: includes/modules/teamMember/teamMember.php:49
+msgid "Icon Settings"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:190
+#: includes/modules/priceBox/priceBox.php:236
+#: includes/modules/teamMember/teamMember.php:210
+msgid "Style 1"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:191
+#: includes/modules/teamMember/teamMember.php:211
+msgid "Style 2"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:192
+#: includes/modules/teamMember/teamMember.php:212
+msgid "Style 3"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:193
+#: includes/modules/teamMember/teamMember.php:213
+msgid "Style 4"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:199
+#: includes/modules/tagCloudChild/tagCloudChild.php:79
+#: includes/modules/tagCloudChild/tagCloudChild.php:85
+msgid "Image"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:213
+msgid "Subtitle"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:222
+#: includes/modules/priceBox/priceBox.php:263
+msgid "Price"
+msgstr ""
+
+#: includes/modules/foodMenu/foodMenu.php:228
+#: includes/modules/teamMember/teamMember.php:199
+msgid "Description"
+msgstr ""
+
+#: includes/modules/iHover/iHover.php:16
+msgid "DE iHover"
+msgstr ""
+
+#: includes/modules/iHover/iHover.php:169
+#: includes/modules/iHover/iHover.php:172
+msgid "link"
+msgstr ""
+
+#: includes/modules/iHover/iHover.php:192
+msgid "Shape"
+msgstr ""
+
+#: includes/modules/iHover/iHover.php:195
+msgid "Circle"
+msgstr ""
+
+#: includes/modules/iHover/iHover.php:196
+msgid "Square"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:17
+msgid "DE Image Comparison"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:157
+msgid "Before Image"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:165
+msgid "Before Text"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:168
+msgid "Set a custom before label"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:172
+msgid "After Image"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:180
+msgid "After Text"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:183
+msgid "Set a custom after label"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:187
+msgid "Orientation"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:191
+msgid "Horizontal"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:192
+msgid "Vertical"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:194
+msgid "Orientation of the before and after images "
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:198
+msgid "Before Visible Percent"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:202
+msgid "0%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:203
+msgid "10%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:204
+msgid "20%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:205
+msgid "30%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:206
+msgid "40%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:207
+msgid "50%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:208
+msgid "6%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:209
+msgid "70%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:210
+msgid "80%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:211
+msgid "90%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:212
+msgid "100%"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:218
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:225
+msgid "Do not show the overlay with before and after"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:229
+msgid "Slider on hover"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:236
+msgid " Move slider on mouse hover"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:240
+msgid "Move only with handle"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:247
+msgid "Allow a user to swipe anywhere on the image to control slider movement."
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:251
+msgid "Click to move"
+msgstr ""
+
+#: includes/modules/imageComparison/imageComparison.php:258
+msgid "Allow a user to click (or tap) anywhere on the image to move the slider to that location."
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:17
+msgid "DE Inf Products"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:23
+msgid "infinite Options"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:24
+#: includes/modules/shop/shop.php:24
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:35
+#: includes/modules/shop/shop.php:36
+msgid "Title & Price"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:48
+#: includes/modules/shop/shop.php:49
+msgid "Badge"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:49
+#: includes/modules/infiniteProducts/infiniteProducts.php:165
+#: includes/modules/shop/shop.php:50
+#: includes/modules/shop/shop.php:166
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:50
+msgid "infinite"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:169
+#: includes/modules/shop/shop.php:170
+msgid "Product Title"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:173
+#: includes/modules/shop/shop.php:174
+msgid "Product Price"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:177
+#: includes/modules/shop/shop.php:178
+msgid "Product Image"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:225
+#: includes/modules/shop/shop.php:240
+msgid "Choose which style you would like to display."
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:232
+#: includes/modules/infiniteProducts/infiniteProducts.php:244
+msgid "Columns Number"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:236
+msgid "One Column"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:237
+msgid "Two Column"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:238
+msgid "Three Column"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:239
+msgid "Four Column"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:240
+msgid "Five Column"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:241
+msgid "Six Column"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:251
+#: includes/modules/shop/shop.php:247
+#: includes/modules/tagProducts/tagProducts.php:65
+msgid "Type"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:256
+#: includes/modules/shop/shop.php:252
+#: includes/modules/tagProducts/tagProducts.php:70
+msgid "Featured Products"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:257
+#: includes/modules/shop/shop.php:253
+#: includes/modules/tagProducts/tagProducts.php:71
+msgid "Sale Products"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:258
+#: includes/modules/shop/shop.php:254
+#: includes/modules/tagProducts/tagProducts.php:72
+msgid "Product Category"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:264
+#: includes/modules/shop/shop.php:260
+#: includes/modules/tagProducts/tagProducts.php:78
+msgid "Choose which type of products you would like to display."
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:272
+#: includes/modules/shop/shop.php:268
+#: includes/modules/tagProducts/tagProducts.php:86
+msgid "Product Count"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:275
+#: includes/modules/shop/shop.php:271
+#: includes/modules/tagProducts/tagProducts.php:89
+msgid "Define the number of products that should be displayed per page."
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:282
+#: includes/modules/shop/shop.php:278
+msgid "Display Image"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:297
+#: includes/modules/shop/shop.php:293
+msgid "Display Badge"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:312
+#: includes/modules/shop/shop.php:308
+msgid "Display Title"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:327
+#: includes/modules/shop/shop.php:323
+msgid "Display Price"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:342
+#: includes/modules/shop/shop.php:338
+msgid "Display Add to Cart Button"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:357
+#: includes/modules/shop/shop.php:353
+#: includes/modules/tagProducts/tagProducts.php:97
+msgid "Include Categories"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:364
+#: includes/modules/shop/shop.php:360
+#: includes/modules/tagProducts/tagProducts.php:104
+msgid "Choose which categories you would like to include."
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:372
+#: includes/modules/shop/shop.php:368
+msgid "Order By"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:376
+#: includes/modules/shop/shop.php:372
+msgid "Default"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:377
+#: includes/modules/shop/shop.php:373
+msgid "Sort by Date: Oldest to Newest"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:378
+#: includes/modules/shop/shop.php:374
+msgid "Sort by Date: Newest to Oldest"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:379
+#: includes/modules/shop/shop.php:375
+msgid "Sort by Price: Low to High"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:380
+#: includes/modules/shop/shop.php:376
+msgid "Sort by Price: High to Low"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:381
+#: includes/modules/shop/shop.php:377
+msgid "A to Z"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:382
+#: includes/modules/shop/shop.php:378
+msgid "Z to A"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:383
+#: includes/modules/shop/shop.php:379
+msgid "Popularity"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:384
+#: includes/modules/shop/shop.php:380
+msgid "Rating"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:388
+#: includes/modules/shop/shop.php:384
+msgid "Choose how your products should be ordered."
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:395
+#: includes/modules/shop/shop.php:624
+msgid "Badge Background Color"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:401
+#: includes/modules/shop/shop.php:630
+msgid "Badge Text Color"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:407
+#: includes/modules/shop/shop.php:636
+msgid "Add to Cart Background Color"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:413
+#: includes/modules/shop/shop.php:642
+msgid "Add to Cart Text Color"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:420
+#: includes/modules/shop/shop.php:649
+msgid "Add to Cart Alignment"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:431
+#: includes/modules/shop/shop.php:660
+msgid "On Sale Text"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:435
+#: includes/modules/shop/shop.php:664
+msgid "Text here it will be displayed only inside on sale products"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:443
+#: includes/modules/shop/shop.php:672
+msgid "Custom Badge Text"
+msgstr ""
+
+#: includes/modules/infiniteProducts/infiniteProducts.php:446
+#: includes/modules/shop/shop.php:675
+msgid "If you write something here, it will be displayed in replace of \"on sale badge\" and inside all products"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:18
+msgid "DE Price Box"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:24
+msgid "Price Box Link"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:34
+msgid "Price Box Header"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:35
+msgid "PriceBox Price"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:256
+msgid "Intro Text"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:270
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:277
+msgid "Price Subtitle"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:284
+msgid "Price Description"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:291
+msgid "Features"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:303
+msgid "Featured Box"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:313
+msgid "Main Title Background Color"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:315
+#: includes/modules/priceBox/priceBox.php:323
+#: includes/modules/priceBox/priceBox.php:345
+#: includes/modules/priceBox/priceBox.php:352
+#: includes/modules/tagCloud/tagCloud.php:83
+#: includes/modules/tagCloud/tagCloud.php:103
+#: includes/modules/tagProducts/tagProducts.php:216
+msgid "Here you can define a custom color."
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:321
+msgid "Price Background Color"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:328
+msgid "PriceBox Link"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:335
+msgid "PriceBox Text"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:343
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:350
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/priceBox/priceBox.php:356
+msgid "Text Size"
+msgstr ""
+
+#: includes/modules/shop/shop.php:17
+msgid "DE Shop Carousel"
+msgstr ""
+
+#: includes/modules/shop/shop.php:23
+msgid "Carousel Options"
+msgstr ""
+
+#: includes/modules/shop/shop.php:34
+msgid "Column"
+msgstr ""
+
+#: includes/modules/shop/shop.php:51
+#: panel/divienhancer-options.php:79
+msgid "Carousel"
+msgstr ""
+
+#: includes/modules/shop/shop.php:556
+msgid "Equalize content height"
+msgstr ""
+
+#: includes/modules/shop/shop.php:559
+msgid "On"
+msgstr ""
+
+#: includes/modules/shop/shop.php:560
+msgid "Off"
+msgstr ""
+
+#: includes/modules/shop/shop.php:604
+msgid "Dots Color"
+msgstr ""
+
+#: includes/modules/shop/shop.php:610
+msgid "Column Content Background Color"
+msgstr ""
+
+#: includes/modules/shop/shop.php:616
+msgid "Column Padding"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:18
+msgid "DE 3D Tag Cloud"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:24
+#: includes/modules/tagProducts/tagProducts.php:23
+msgid "Options"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:40
+#: includes/modules/tagProducts/tagProducts.php:113
+msgid "Container Width"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:47
+#: includes/modules/tagProducts/tagProducts.php:124
+msgid "Container Height"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:54
+#: includes/modules/tagProducts/tagProducts.php:166
+msgid "Items Speed"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:67
+msgid "Item Text Size"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:81
+msgid "Item Text Color"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:87
+#: includes/modules/tagProducts/tagProducts.php:197
+msgid "Tooltip Text Size"
+msgstr ""
+
+#: includes/modules/tagCloud/tagCloud.php:101
+#: includes/modules/tagProducts/tagProducts.php:214
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:67
+msgid "Item Identifier"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:70
+msgid "This lets you identify each item on modal settings"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:75
+msgid "Item Source "
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:96
+#: includes/modules/tagProducts/tagProducts.php:134
+msgid "Image Height"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:112
+#: includes/modules/tagProducts/tagProducts.php:150
+msgid "Image Width"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:131
+msgid "Item Text"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:138
+msgid "URL"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:140
+msgid "When clicked the item will open the link"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:144
+msgid "Tooltip"
+msgstr ""
+
+#: includes/modules/tagCloudChild/tagCloudChild.php:146
+msgid "When mouse pass over this info will appear over the item"
+msgstr ""
+
+#: includes/modules/tagProducts/tagProducts.php:17
+msgid "DE 3D Cloud Products"
+msgstr ""
+
+#: includes/modules/tagProducts/tagProducts.php:183
+msgid "Tooltip Content"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:17
+msgid "DE Team Member"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:22
+msgid "Member Main Info"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:23
+msgid "Networks"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:177
+msgid "Member Image"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:185
+#: includes/modules/teamMember/teamMember.php:188
+msgid "Member Name"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:202
+msgid "Member Description"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:207
+msgid "Member Style"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:214
+msgid "Style 5"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:215
+msgid "Style 6"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:216
+msgid "Style 7"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:217
+msgid "Style 8"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:224
+msgid "First Network Icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:228
+#: includes/modules/teamMember/teamMember.php:257
+#: includes/modules/teamMember/teamMember.php:286
+msgid "Facebook"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:229
+#: includes/modules/teamMember/teamMember.php:258
+#: includes/modules/teamMember/teamMember.php:287
+msgid "Twitter"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:230
+#: includes/modules/teamMember/teamMember.php:259
+#: includes/modules/teamMember/teamMember.php:288
+msgid "Pinterest"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:231
+#: includes/modules/teamMember/teamMember.php:260
+#: includes/modules/teamMember/teamMember.php:289
+msgid "Google"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:232
+#: includes/modules/teamMember/teamMember.php:261
+#: includes/modules/teamMember/teamMember.php:290
+msgid "Tumblr"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:233
+#: includes/modules/teamMember/teamMember.php:262
+#: includes/modules/teamMember/teamMember.php:291
+msgid "Instagram"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:234
+#: includes/modules/teamMember/teamMember.php:263
+#: includes/modules/teamMember/teamMember.php:292
+msgid "Dribbble"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:235
+#: includes/modules/teamMember/teamMember.php:264
+#: includes/modules/teamMember/teamMember.php:293
+msgid "Vimeo"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:236
+#: includes/modules/teamMember/teamMember.php:265
+#: includes/modules/teamMember/teamMember.php:294
+msgid "Linkedin"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:237
+#: includes/modules/teamMember/teamMember.php:266
+#: includes/modules/teamMember/teamMember.php:295
+msgid "Skype"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:238
+#: includes/modules/teamMember/teamMember.php:267
+#: includes/modules/teamMember/teamMember.php:296
+msgid "Youtube"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:242
+#: includes/modules/teamMember/teamMember.php:271
+#: includes/modules/teamMember/teamMember.php:300
+msgid "Choose the network icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:245
+msgid "First Network link "
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:248
+msgid "First Link Icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:253
+msgid "Second Network Icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:274
+msgid "Second Network link "
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:277
+msgid "Second Link Icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:282
+msgid "Third Network Icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:303
+msgid "Third Network link "
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:306
+msgid "Third Link Icon"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:311
+msgid "Icons Color"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:313
+msgid "Here you can define a custom color for your icons."
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:318
+msgid "Icons Size"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:326
+msgid "Icons Alignment"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:335
+msgid "Icon Alignment"
+msgstr ""
+
+#: includes/modules/teamMember/teamMember.php:341
+msgid "this color will be used in different ways, effect deppends."
+msgstr ""
+
+#: includes/modules/timeLine/timeLine.php:18
+msgid "DE Timeline"
+msgstr ""
+
+#: includes/modules/timeLine/timeLine.php:178
+msgid "Timeline Color"
+msgstr ""
+
+#: includes/modules/timeLine/timeLine.php:184
+msgid "Timeline Size"
+msgstr ""
+
+#: includes/modules/timeLine/timeLine.php:187
+msgid "Thin"
+msgstr ""
+
+#: includes/modules/timeLine/timeLine.php:189
+msgid "Bold"
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:31
+msgid "Styles"
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:76
+msgid "Text entered here will appear as title."
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:80
+msgid "Date"
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:83
+msgid "Text entered here will appear as date."
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:102
+msgid "Icon Size"
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:107
+msgid "Large"
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:112
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/timeLineChild/timeLineChild.php:117
+msgid "Icon Background Color"
+msgstr ""
+
+#: main.php:59
+msgid "Hey %1$s"
+msgstr ""
+
+#: main.php:60
+msgid "Help me improve %2$s to provide you more and better features on next update - opt in to our security & feature updates notifications, and non-sensitive diagnostic tracking with %5$s"
+msgstr ""
+
+#: panel/divienhancer-options.php:11
+msgid "DIVI Enhancer Settings"
+msgstr ""
+
+#: panel/divienhancer-options.php:15
+msgid "Enable/Disable Functions"
+msgstr ""
+
+#: panel/divienhancer-options.php:27
+msgid "MODULES"
+msgstr ""
+
+#: panel/divienhancer-options.php:34
+msgid "Animated Links"
+msgstr ""
+
+#: panel/divienhancer-options.php:40
+#: panel/divienhancer-options.php:55
+#: panel/divienhancer-options.php:70
+#: panel/divienhancer-options.php:85
+#: panel/divienhancer-options.php:100
+#: panel/divienhancer-options.php:115
+#: panel/divienhancer-options.php:130
+#: panel/divienhancer-options.php:145
+#: panel/divienhancer-options.php:160
+#: panel/divienhancer-options.php:175
+#: panel/divienhancer-options.php:190
+#: panel/divienhancer-options.php:205
+#: panel/divienhancer-options.php:220
+#: panel/divienhancer-options.php:235
+#: panel/divienhancer-options.php:250
+#: panel/divienhancer-options.php:273
+#: panel/divienhancer-options.php:288
+#: panel/divienhancer-options.php:303
+#: panel/divienhancer-options.php:318
+#: panel/divienhancer-options.php:333
+#: panel/divienhancer-options.php:348
+msgid "Disable"
+msgstr ""
+
+#: panel/divienhancer-options.php:41
+#: panel/divienhancer-options.php:56
+#: panel/divienhancer-options.php:71
+#: panel/divienhancer-options.php:86
+#: panel/divienhancer-options.php:101
+#: panel/divienhancer-options.php:116
+#: panel/divienhancer-options.php:131
+#: panel/divienhancer-options.php:146
+#: panel/divienhancer-options.php:161
+#: panel/divienhancer-options.php:176
+#: panel/divienhancer-options.php:191
+#: panel/divienhancer-options.php:206
+#: panel/divienhancer-options.php:221
+#: panel/divienhancer-options.php:236
+#: panel/divienhancer-options.php:251
+#: panel/divienhancer-options.php:274
+#: panel/divienhancer-options.php:289
+#: panel/divienhancer-options.php:304
+#: panel/divienhancer-options.php:319
+#: panel/divienhancer-options.php:334
+#: panel/divienhancer-options.php:349
+msgid "Enable"
+msgstr ""
+
+#: panel/divienhancer-options.php:49
+msgid "Bing Map"
+msgstr ""
+
+#: panel/divienhancer-options.php:64
+msgid "Box"
+msgstr ""
+
+#: panel/divienhancer-options.php:94
+msgid "Products Carousel"
+msgstr ""
+
+#: panel/divienhancer-options.php:109
+msgid "Flip Box"
+msgstr ""
+
+#: panel/divienhancer-options.php:124
+msgid "Food Menu"
+msgstr ""
+
+#: panel/divienhancer-options.php:139
+msgid "iHover"
+msgstr ""
+
+#: panel/divienhancer-options.php:154
+msgid "Image Comparison"
+msgstr ""
+
+#: panel/divienhancer-options.php:169
+msgid "Infinite Products"
+msgstr ""
+
+#: panel/divienhancer-options.php:184
+msgid "Price Box"
+msgstr ""
+
+#: panel/divienhancer-options.php:199
+msgid "Tag Cloud"
+msgstr ""
+
+#: panel/divienhancer-options.php:214
+msgid "Tag Products"
+msgstr ""
+
+#: panel/divienhancer-options.php:229
+msgid "Team Member"
+msgstr ""
+
+#: panel/divienhancer-options.php:244
+msgid "Timeline"
+msgstr ""
+
+#: panel/divienhancer-options.php:260
+msgid "CUSTOM OPTIONS"
+msgstr ""
+
+#: panel/divienhancer-options.php:297
+msgid "Sticky Modules"
+msgstr ""
+
+#: panel/divienhancer-options.php:327
+msgid "Module As Menu"
+msgstr ""
+
+#: panel/divienhancer-options.php:357
+msgid "Other Page"
+msgstr ""
